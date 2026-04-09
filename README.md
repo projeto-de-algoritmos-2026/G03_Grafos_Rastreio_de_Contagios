@@ -1,2 +1,22 @@
 # G03_Grafos_Rastreio_de_Contagios
-Repositório destinado ao trabalho 1 da disciplina de Projeto de Algoritmos, com a temática de grafos, referente ao semestre 2026.1.
+
+**Conteúdo da Disciplina**: Grafos
+
+## Alunos
+|Matrícula | Aluno |
+| -- | -- |
+| 22/1008033  |  Fernando Gabriel Dos Santos Carrijo |
+| 20/0035703  |  Breno Alexandre Soares Garcia |
+
+## Sobre 
+Descrição do projeto.
+
+## Screenshots
+
+## Instalação 
+**Linguagem**: 
+**Framework**: 
+
+**Pré-requisitos:**
+
+**Passo a passo da instalação:**
