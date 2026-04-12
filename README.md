@@ -15,6 +15,10 @@ O Grafo permite extrair métricas vitais para o controle de infecções:
 * **Árvore de Infecção:** Utiliza o algoritmo de Busca em Largura (BFS) para visualizar a cadeia de transmissão a partir de um "paciente zero" e calcular o grau de exposição de indivíduos saudáveis.
 * **Super-espalhadores:** Utiliza o cálculo de Centralidade de Grau para identificar os nós com o maior número de conexões, destacando indivíduos que exigem isolamento prioritário.
 
+## Vídeo
+
+Segue o vídeo feito pela dupla: [Link](https://www.youtube.com/watch?v=GbfybYKvnlw)
+
 ## Screenshots
 
 ![Execução Principal - Terminal](assets/print_3.png)
