@@ -1,6 +1,7 @@
 # Grafos1_Rastreio_de_Contágios
 
-**Conteúdo da Disciplina**: Grafos
+**Número da Lista**: X<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -16,13 +17,14 @@ O Grafo permite extrair métricas vitais para o controle de infecções:
 * **Super-espalhadores:** Utiliza o cálculo de Centralidade de Grau para identificar os nós com o maior número de conexões, destacando indivíduos que exigem isolamento prioritário.
 
 ## Screenshots
+
 ![Execução Principal - Terminal](assets/print_3.png)
 > *Figura 1: Saída do terminal mostrando os super-espalhadores e a árvore de contágio.*
 
 ![Execução Secundária Testes ](assets/print_1.png)
 > *Figura 2: Validação da lógica estrutural através de testes .*
 *Figura 3: Validação da lógica estrutural através de testes .*
-![Execução Secundária Testes ](assets/print_1.png)
+![Execução Secundária Testes ](assets/print_2.png)
 
 ## Instalação 
 **Linguagem**: `Python 3.8+`<br>
@@ -35,4 +37,7 @@ O Grafo permite extrair métricas vitais para o controle de infecções:
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/projeto-de-algoritmos-2026/G03_Grafos_Rastreio_de_Contagios
+git clone [https://github.com/show-dawn/Grafos1_Rastreio_de_Cont-gios.git](https://github.com/show-dawn/Grafos1_Rastreio_de_Cont-gios.git)
+
+
+
